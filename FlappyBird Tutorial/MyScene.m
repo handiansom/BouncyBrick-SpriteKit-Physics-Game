@@ -113,6 +113,9 @@
     }
 }
 
+
+
+
 - (void)restart
 {
     for (SKSpriteNode *obstacle in self.obstacles) {

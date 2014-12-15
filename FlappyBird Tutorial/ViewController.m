@@ -33,6 +33,7 @@
     return YES;
 }
 
+
 - (NSUInteger)supportedInterfaceOrientations
 {
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
